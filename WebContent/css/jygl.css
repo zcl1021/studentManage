@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+	margin:0px;
+	background-color:#EDEDED;
+}
+.logintitle {
+	
+	font- family: 楷体_ gb2312;
+	font-size: 22px;
+	line-height: 40px ;
+	color: #333333;
+}
+. logintxt {
+	font- family: Arial， Helvetica, sans- serif ;
+	font-size: 12px;
+	line- -height: 30px ;
+	color: #333333;
+	
+}
+.btn{
+	font- family: Arial， Helvetica, sans-serif;
+    font- size: 12px;
+	color: #333333 ;
+	text - - decoration: none ;
+}
+a: link {
+	font- family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line- height: 26px ;
+	color: #666666 ;
+	background- image: url (/ student/ images/ menu_ bg. gif) ;
+	background- repeat: no- repeat;
+	list-style- type: none;
+	list- style- image: none ;
+}
+. errorcode {
+	font- size: 12px ;
+	col or : #ff0000;
+	
+}

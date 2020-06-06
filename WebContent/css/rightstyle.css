@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #EEF2FB;
+}
+.txttitle{
+	font-size:12px;
+	line-height:30px;
+	font-weight:bold;
+	color:#000000;
+	background-image:url(/jygl/images/top_bt.jpg);
+	background-repeat:no-repeat;
+	display:block;
+	text-indent:15px;
+	padding-top:5px;
+}
+.txtlogo {
+	font-family: 宋体，Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #395a7b;
+}
+.txtright{	
+	font-family: 宋体,Arial;
+	font-size: 12px;
+	text-align:left;
+	line-height:30px;
+	color: #666666;
+	text-indent:24px;
+}
+
+.td1 {
+	font-family:宋体，Arial;
+	font-size: 12px;
+	line-height: 25px;
+	font-weight: bold;
+	color: #333333;
+}
+.td2{
+	background-image:url(/jygl/images/t2bg1.gif);
+	background-repeat:repeat-y;	
+}
+

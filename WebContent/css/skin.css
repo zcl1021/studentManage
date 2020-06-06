@@ -1,0 +1,65 @@
+ body{
+	   margin-left: 0px;
+	   margin-top: 0px;
+	   margin-right: 0px;
+	   margin-bottom: 0px;	  
+	   background-color:#EDEDED;	   
+ }  
+ .logintitle{
+    font-family: ¿¬Ìå_gb2312;
+	font-size: 22px;
+	line-height: 40px;
+	color: #333333;
+ }
+ .logintxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 30px;
+	color: #333333;
+} 
+.btn{
+	font-family: Arial, Helvetica, sans-serif;;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;	
+}
+ a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 31px;
+	color: #996666;
+	background-image: url(/jygl/images/menu_bg.gif);
+	background-repeat: no-repeat;	
+}
+a:link {
+	font-size: 12px;
+	line-height: 30px;
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	line-height: 30px;
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px;
+	line-height: 30px;
+	color: #333333;
+	text-decoration: none;
+}
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 26px;
+	color: #666666;
+	background-image: url(/jygl/images/menu_bg.gif);
+	background-repeat: no-repeat;
+	list-style-type: none;
+	list-style-image: none;
+}
+.errorcode{
+	font-size:12px;
+	color:#ff0000;
+}
